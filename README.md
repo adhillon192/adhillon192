@@ -32,9 +32,9 @@
 [![My University](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://mtroyal.ca)
 [![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/adhillon192)
 
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Windows10)
+[![OS](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/Windows10)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://www.jetbrains.com/idea)
+[![Editor](https://img.shields.io/badge/Editor-Intellij-blue?style=flat-square&logo=intellij-idea-code&logoColor=white)](https://www.jetbrains.com/idea)
 [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/adhillon192/dotfiles)
 [![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
