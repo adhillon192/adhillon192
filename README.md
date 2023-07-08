@@ -50,11 +50,5 @@
 <a href="https://www.buymeacoffee.com/adhil365C" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adhillon192&show_icons=true&theme=gotham" alt="adhillon192" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhillon192&hide=TeX&layout=compact)
-
-
-
 
 
