@@ -38,7 +38,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhillon192&layout=compact&theme=radical)
 
 <a href="https://www.buymeacoffee.com/adhil365C" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
