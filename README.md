@@ -1,6 +1,4 @@
 
-# hey there!
-
 
 ###
 <br />
@@ -17,26 +15,32 @@
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![My University](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://mtroyal.ca)
+
 [![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/adhillon192)
 
-[![OS](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/Windows10)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-Intellij-blue?style=flat-square&logo=intellij-idea-code&logoColor=white)](https://www.jetbrains.com/idea)
 [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/adhillon192/dotfiles)
-[![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
+
+[![Gmail](https://img.shields.io/badge/Email%20service-Gmail-informational?style=flat-square&color=8B89CC&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 
-#
+[![Twitter](https://img.shields.io/badge/Twitter-adhillon192-informational?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amardeep192)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adhillon192-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amardeepdhillon/)
+[![Instagram](https://img.shields.io/badge/Instagram-adhillon192-informational?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amardeep_singh192/)
+[![Reddit](https://img.shields.io/badge/Reddit-adhillon192-informational?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dry_Tea1708)
+
+
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adhillon192.adhillon192)
-![](https://visitor-badge.glitch.me/badge?page_id=adhillon192.adhillon.192)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhillon192&layout=compact&theme=radical)
 
 <a href="https://www.buymeacoffee.com/adhil365C" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 
 
