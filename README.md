@@ -22,7 +22,6 @@
 [![Editor](https://img.shields.io/badge/Editor-Intellij-blue?style=flat-square&logo=intellij-idea-code&logoColor=white)](https://www.jetbrains.com/idea)
 [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/adhillon192/dotfiles)
 
-[![Gmail](https://img.shields.io/badge/Email%20service-Gmail-informational?style=flat-square&color=8B89CC&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-adhillon192-informational?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amardeep192)
