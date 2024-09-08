@@ -8,7 +8,7 @@
 <br />
 
 
-[![Website](https://img.shields.io/badge/Website-adhillon.me-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://adhillon.vercel.app)
+[![Website](https://img.shields.io/badge/Website-adhillon.vercel.app-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://adhillon.vercel.app)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7729-3060)
 
