@@ -24,10 +24,10 @@
 
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-adhillon192-informational?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amardeep192)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adhillon192-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amardeepdhillon/)
-[![Instagram](https://img.shields.io/badge/Instagram-adhillon192-informational?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amardeep_singh192/)
-[![Reddit](https://img.shields.io/badge/Reddit-adhillon192-informational?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dry_Tea1708)
+[![Twitter](https://img.shields.io/badge/Twitter-amardeep192-informational?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amardeep192)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amardeepdhillon-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amardeepdhillon/)
+[![Instagram](https://img.shields.io/badge/Instagram-amardeep_singh192-informational?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amardeep_singh192/)
+[![Reddit](https://img.shields.io/badge/Reddit-Dry_Tea1708-informational?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dry_Tea1708)
 
 
 
