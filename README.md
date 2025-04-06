@@ -20,7 +20,6 @@
 <!-- Updated badge from IntelliJ to VS Code -->
 [![Editor](https://img.shields.io/badge/Editor-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/adhillon192/dotfiles)
 
 [![Twitter](https://img.shields.io/badge/Twitter-amardeep192-informational?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amardeep192)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amardeepdhillon-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amardeepdhillon/)
