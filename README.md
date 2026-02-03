@@ -29,12 +29,19 @@
 ## � Quick Stats
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Lines_of_Code-1M+-00ADD8?style=for-the-badge&logo=codecov&logoColor=white" alt="Total Lines" />
-  <img src="https://img.shields.io/badge/Languages-15+-FF6B6B?style=for-the-badge&logo=polywork&logoColor=white" alt="Languages" />
-  <img src="https://img.shields.io/badge/Repositories-50+-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adhillon192&query=$.public_repos&label=Repositories&style=for-the-badge&logo=github&color=4CAF50&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/GitHub_Since-2020-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Since" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhillon192&theme=github_dark" alt="Profile Summary" />
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalPRs&label=Total%20PRs&style=for-the-badge&logo=git&color=FF6B6B&logoColor=white" alt="Total PRs" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalCommits&label=Total%20Commits&style=for-the-badge&logo=git&color=00ADD8&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalIssues&label=Total%20Issues&style=for-the-badge&logo=github&color=FFA500&logoColor=white" alt="Total Issues" />
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhillon192&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhillon192&theme=github_dark" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhillon192&theme=github_dark" alt="Most Commit Language" />
 
 ## �💡 About Me
 
@@ -73,25 +80,4 @@
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhillon192&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhillon192&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adhillon192&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
-
-## 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
