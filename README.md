@@ -27,3 +27,41 @@
 [![Reddit](https://img.shields.io/badge/Reddit-Dry_Tea1708-informational?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dry_Tea1708)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adhillon192.adhillon192)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhillon192&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhillon192&theme=radical&hide_border=true)
+
+</div>
+
+## 💻 Tech Stack & Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhillon192&theme=radical&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhillon192&theme=react-dark&hide_border=true&area=true)](https://github.com/adhillon192)
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=adhillon192&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+## 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
