@@ -26,16 +26,6 @@
   </a>
 </p>
 
-## � Quick Stats
-
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adhillon192&query=$.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=4CAF50&logoColor=white" alt="Public Repositories" />
-  <img src="https://komarev.com/ghpvc/?username=adhillon192&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhillon192&theme=github_dark" alt="Profile Summary with Total Commits and Lines of Code" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhillon192&theme=github_dark" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhillon192&theme=github_dark" alt="Most Commit Language" />
 
 ## �💡 About Me
 
