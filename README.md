@@ -1,32 +1,58 @@
-<br />
-<br />
-<a href="https://calendar.app.google/C1vUcTQm3orrp6Rr6" target="_blank">
-  <img src="Screenshot 2023-07-03 at 18-54-50 Mount Royal University – Calendar - Tuesday 4 July 2023.png" alt="Google Calendar Appointment for July 4th, 2023" width="150" />
-</a>
-<br />
-<br />
+<div align="center">
 
-[![Website](https://img.shields.io/badge/Website-adhillon.net-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://adhillon.net)
+## 🔗 Connect With Me
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7729-3060)
+<p>
+  <a href="https://adhillon.net" target="_blank">
+    <img src="https://img.shields.io/badge/Website-adhillon.net-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/amardeepdhillon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/amardeep192" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/amardeep_singh192/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.reddit.com/user/Dry_Tea1708" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="https://orcid.org/0009-0009-7729-3060" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://calendar.app.google/C1vUcTQm3orrp6Rr6" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Meeting" />
+  </a>
+</p>
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
+## � Quick Stats
 
-[![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/adhillon192)
+<p>
+  <img src="https://img.shields.io/badge/Total_Lines_of_Code-1M+-00ADD8?style=for-the-badge&logo=codecov&logoColor=white" alt="Total Lines" />
+  <img src="https://img.shields.io/badge/Languages-15+-FF6B6B?style=for-the-badge&logo=polywork&logoColor=white" alt="Languages" />
+  <img src="https://img.shields.io/badge/Repositories-50+-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</p>
 
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhillon192&theme=github_dark" alt="Profile Summary" />
 
-<!-- Updated badge from IntelliJ to VS Code -->
-[![Editor](https://img.shields.io/badge/Editor-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+## �💡 About Me
+
+<p>
+  <img src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Species" />
+  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge&logo=gravatar&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/My%20jam-Science-critical?style=for-the-badge&logo=electron&logoColor=white" alt="Science" />
+</p>
+
+## 🛠️ My Setup
+
+<p>
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-amardeep192-informational?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amardeep192)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amardeepdhillon-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amardeepdhillon/)
-[![Instagram](https://img.shields.io/badge/Instagram-amardeep_singh192-informational?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amardeep_singh192/)
-[![Reddit](https://img.shields.io/badge/Reddit-Dry_Tea1708-informational?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dry_Tea1708)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adhillon192.adhillon192)
+</div>
 
 ---
 
@@ -34,9 +60,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhillon192&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhillon192&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhillon192&theme=radical&hide_border=true)
+<img height="180em" src="https://streak-stats.demolab.com/?user=adhillon192&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -44,19 +70,23 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhillon192&theme=radical&hide_border=true&layout=compact&langs_count=8)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhillon192&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhillon192&theme=react-dark&hide_border=true&area=true)](https://github.com/adhillon192)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhillon192&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=adhillon192&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=adhillon192&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
