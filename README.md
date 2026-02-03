@@ -29,17 +29,9 @@
 ## � Quick Stats
 
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adhillon192&query=$.public_repos&label=Repositories&style=for-the-badge&logo=github&color=4CAF50&logoColor=white" alt="Repositories" />
-  <img src="https://img.shields.io/badge/GitHub_Since-2020-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Since" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalPRs&label=Total%20PRs&style=for-the-badge&logo=git&color=FF6B6B&logoColor=white" alt="Total PRs" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalRepos&label=Total%20Repositories&style=for-the-badge&logo=github&color=4CAF50&logoColor=white" alt="Total Repositories" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalCommits&label=Total%20Commits&style=for-the-badge&logo=git&color=00ADD8&logoColor=white" alt="Total Commits" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalIssues&label=Total%20Issues&style=for-the-badge&logo=github&color=FFA500&logoColor=white" alt="Total Issues" />
 </p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhillon192&theme=github_dark" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhillon192&theme=github_dark" alt="Repos Per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhillon192&theme=github_dark" alt="Most Commit Language" />
 
