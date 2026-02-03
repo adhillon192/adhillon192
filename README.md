@@ -29,9 +29,11 @@
 ## � Quick Stats
 
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalRepos&label=Total%20Repositories&style=for-the-badge&logo=github&color=4CAF50&logoColor=white" alt="Total Repositories" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-stats-proxy.vercel.app/api/stats/adhillon192&query=$.totalCommits&label=Total%20Commits&style=for-the-badge&logo=git&color=00ADD8&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adhillon192&query=$.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=4CAF50&logoColor=white" alt="Public Repositories" />
+  <img src="https://komarev.com/ghpvc/?username=adhillon192&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhillon192&theme=github_dark" alt="Profile Summary with Total Commits and Lines of Code" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhillon192&theme=github_dark" alt="Repos Per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhillon192&theme=github_dark" alt="Most Commit Language" />
 
@@ -61,7 +63,7 @@
   
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhillon192&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=adhillon192&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 
 </div>
 
