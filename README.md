@@ -45,23 +45,3 @@
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhillon192&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-
-
-</div>
-
-## 💻 Tech Stack & Languages
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhillon192&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
-</div>
-
